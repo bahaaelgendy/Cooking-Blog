@@ -1,0 +1,184 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Chicken Alfredo",
+            "ingredients": [
+                "1 lb fettuccine pasta",
+                "2 tbsp butter",
+                "2 cloves garlic, minced",
+                "2 cups heavy cream",
+                "2 cups Parmesan cheese, grated",
+                "1 lb boneless chicken breasts, cooked and sliced",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "Cook fettuccine pasta according to package directions.",
+                "In a large saucepan, melt butter over medium heat.",
+                "Add garlic and sauté for 1-2 minutes, until fragrant.",
+                "Add heavy cream and bring to a simmer.",
+                "Add Parmesan cheese and stir until melted and smooth.",
+                "Add cooked chicken to the sauce and heat through.",
+                "Season with salt and pepper to taste.",
+                "Serve hot over cooked fettuccine pasta."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 2,
+            "title": "Beef Stroganoff",
+            "ingredients": [
+                "1 lb egg noodles",
+                "1 lb beef sirloin, sliced",
+                "1/4 cup all-purpose flour",
+                "2 tbsp butter",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 cup beef broth",
+                "1 cup sour cream",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "Cook egg noodles according to package directions.",
+                "Coat beef slices in flour.",
+                "In a large skillet, melt butter over medium-high heat.",
+                "Add beef slices to the skillet and cook until browned on all sides, about 5-7 minutes.",
+                "Add onion and garlic to the skillet and cook until tender, about 3-5 minutes.",
+                "Add beef broth to the skillet and bring to a simmer.",
+                "Reduce heat to low and stir in sour cream until heated through.",
+                "Season with salt and pepper to taste.",
+                "Serve hot over cooked egg noodles."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 3,
+            "title": "Spaghetti Bolognese",
+            "ingredients": [
+                "1 lb spaghetti",
+                "1 lb ground beef",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 oz) crushed tomatoes",
+                "1/2 cup red wine",
+                "1/4 cup fresh parsley, chopped",
+                "1/4 cup fresh basil, chopped",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "Cook spaghetti according to package directions.",
+                "In a large skillet, cook ground beef over medium heat until browned and cooked through,about 8-10 minutes.",
+                "Add onion and garlic to the skillet and cook until tender, about 3-5 minutes.",
+                "Add crushed tomatoes and red wine to the skillet and bring to a simmer.",
+                "Reduce heat to low and let simmer for 20-30 minutes, stirring occasionally.",
+                "Stir in chopped parsley and basil, and season with salt and pepper to taste.",
+                "Serve hot over cooked spaghetti."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 4,
+            "title": "Beef and Broccoli Stir-Fry",
+            "ingredients": [
+                "1 lb flank steak, sliced",
+                "1/4 cup soy sauce",
+                "2 tbsp cornstarch",
+                "2 tbsp vegetable oil",
+                "2 cloves garlic, minced",
+                "1 tsp ginger, grated",
+                "1 lb broccoli florets",
+                "1/2 cup beef broth",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "In a bowl, whisk together soy sauce and cornstarch.",
+                "In a large skillet or wok, heat vegetable oil over high heat.",
+                "Add sliced beef to the skillet and cook until browned on all sides, about 5-7 minutes.",
+                "Add garlic and ginger to the skillet and cook until fragrant, about 1-2 minutes.",
+                "Add broccoli florets to the skillet and stir-fry for 3-5 minutes, until slightly tender.",
+                "Add beef broth to the skillet and bring to a simmer.",
+                "Stir in the soy sauce mixture and cook until the sauce has thickened, about 2-3 minutes.",
+                "Season with salt and pepper to taste.",
+                "Serve hot over rice or noodles."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 5,
+            "title": "Chicken Parmesan",
+            "ingredients": [
+                "4 boneless chicken breasts",
+                "1 cup Italian breadcrumbs",
+                "1/2 cup Parmesan cheese, grated",
+                "2 eggs, beaten",
+                "2 cups marinara sauce",
+                "1 cup mozzarella cheese, shredded",
+                "1/4 cup fresh basil, chopped",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "Preheat oven to 375°F (190°C).",
+                "In a shallow dish, combine breadcrumbs and Parmesan cheese.",
+                "Season chicken breasts with salt and pepper.",
+                "Dip chicken in beaten eggs, then coat in breadcrumb mixture.",
+                "In a large skillet, heat olive oil over medium-high heat.",
+                "Add chicken breasts to the skillet and cook until browned on both sides, about 3-4 minutes per side.",
+                "Transfer chicken to a baking dish and pour marinara sauce over the top.",
+                "Sprinkle shredded mozzarella cheese over the top of the chicken.",
+                "Bake in the preheated oven for 25-30 minutes, until the cheese is melted and bubbly.",
+                "Garnish with chopped fresh basil before serving."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 6,
+            "title": "Shrimp Scampi",
+            "ingredients": [
+                "1 lb linguine pasta",
+                "1 lb large shrimp, peeled and deveined",
+                "2 tbsp butter",
+                "2 cloves garlic, minced",
+                "1/2 cup white wine",
+                "1/4 cup fresh lemon juice",
+                "1/4 cup fresh parsley, chopped",
+                "Salt and pepper, to taste"
+            ],
+            "method": [
+                "Cook linguine pasta according to package directions.",
+                "In a large skillet, melt butter over medium heat.",
+                "Add garlic and sauté for 1-2 minutes, until fragrant.",
+                "Add shrimp to the skillet and cook until pink and cooked through, about 3-5 minutes.",
+                "Add white wine and lemon juice to the skillet and bring to a simmer.",
+                "Reduce heat to low and let simmer for 5-7 minutes, stirring occasionally.",
+                "Stir in chopped parsley, and season with salt and pepper to taste.",
+                "Serve hot over cooked linguine pasta."
+            ],
+            "cookingTime": "50 minutes"
+        },
+        {
+            "id": 7,
+            "title": "Beef Tacos",
+            "ingredients": [
+                "1 lb ground beef",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 tbsp chili powder",
+                "1 tsp ground cumin",
+                "1/2 tsp paprika",
+                "1/4 tsp cayenne pepper",
+                "Salt and pepper, to taste",
+                "8-10 corn tortillas",
+                "Taco toppings: shredded lettuce, chopped tomatoes, shredded cheese, sour cream, salsa"
+            ],
+            "method": [
+                "In a large skillet, cook ground beef over medium heat until browned and cooked through, about 8-10 minutes.",
+                "Add onion and garlic to the skillet and cook until tender, about 3-5 minutes.",
+                "Stir in chili powder, cumin, paprika, cayenne pepper, salt, and pepper, and cook for 1-2 minutes.",
+                "Warm tortillas in a microwave or on a griddle.",
+                "Assemble tacos by filling each tortilla with the beef mixture and toppings of your choice.",
+                "Serve hot."
+            ],
+            "cookingTime": "50 minutes"
+        }
+    ]
+}
